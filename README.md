@@ -13,6 +13,8 @@
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md).
 
+### Online one-click setup for Contributing
+
 ### Quickstart
 
 Currently this project is build with only html, css.
